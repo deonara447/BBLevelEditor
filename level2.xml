@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level>
+
+  <brick>
+
+    <x>424</x>
+
+    <y>131</y>
+
+    <hp>1</hp>
+
+    <colour>Red</colour>
+
+  </brick>
+
+  <brick>
+
+    <x>738</x>
+
+    <y>131</y>
+
+    <hp>2</hp>
+
+    <colour>Blue</colour>
+
+  </brick>
+
+  <brick>
+
+    <x>1062</x>
+
+    <y>131</y>
+
+    <hp>1</hp>
+
+    <colour>Red</colour>
+
+  </brick>
+
+</level>
